@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0, 
+        "nome": "Benjamin", 
+        "data_nascimento": "25/11/2025", 
+        "cor": "yellow",
+        "raca": "Poodle",
+        "tem_pedigree": false
+    },
+    {
+        "id": 1, 
+        "nome": "Romeu", 
+        "data_nascimento": "05/11/2025", 
+        "cor": "gray", 
+        "raca": "Golden",
+        "tem_pedigree": false
+    },
+    {
+        "id": 2, 
+        "nome": "Aurora", 
+        "data_nascimento": "05/11/2025", 
+        "cor": "blue", 
+        "raca": "Golden",
+        "tem_pedigree": false
+    }
+]

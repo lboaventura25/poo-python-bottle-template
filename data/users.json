@@ -4,5 +4,17 @@
         "name": "UsuÃ¡rio Teste",
         "email": "uduarioteste@email.com",
         "birthdate": "1999-10-21"
+    },
+    {
+        "id": 2,
+        "name": "Joao Gabriel",
+        "email": "joao@email.com",
+        "birthdate": "2025-11-07"
+    },
+    {
+        "id": 4,
+        "name": "Lucas Boaventura",
+        "email": "lucasxboaventura18@gmail.com",
+        "birthdate": "1987-03-25"
     }
 ]
